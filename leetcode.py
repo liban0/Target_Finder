@@ -1,5 +1,1 @@
 
-
-arthur
-
-print(arthur)
